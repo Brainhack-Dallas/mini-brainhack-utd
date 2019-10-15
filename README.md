@@ -3,9 +3,11 @@ mini-Brainhack Dallas 2019
 
 ### What is Hacking
 The idea is to work on coding something that will become useful to the community. So this is not necessarily a time to bring data and just work on one’s project for a paper, but more along the line of working on a project that builds a tool/pipeline/shared data.
-e.g., an open-source textbook is a good project for ‘hacking’ time
-e.g., a tool to easily visualize brain network is a good project for ‘hacking’ time
-e.g., an analysis for a paper that is to be submitted soon is NOT a god project for ’hacking time.
+
+* e.g., an open-source textbook is a good project for ‘hacking’ time
+* e.g., a tool to easily visualize brain network is a good project for ‘hacking’ time
+* e.g., an analysis for a paper that is to be submitted soon is NOT a god project for ’hacking time.
+
 It is not to say one shouldn’t ask about analysis questions during the ‘hack’. The whole point is to facilitate an open environment for working on projects, learning, and networking! But don’t treat hacking as a tutoring-session :slightly_smiling_face:
 
 ### Hacking & Training
