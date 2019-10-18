@@ -4,7 +4,7 @@
 * Ekarin[@epongpipat](https://github.com/epongpipat) - r wizard
 * Ju-Chi [@juchiyu](https://github.com/juchiyu) - pca wizard
 * Matt [@mkmiecik14](https://github.com/mkmiecik14) - pretty graph wizard 
-* David - food wizard
+* David [@marlins0397](https://github.com/marlins0397)- food wizard
 * Micaela [@mychan24](https://github.com/mychan24) - not a wizard
 
 ## Overview of Brainhack and what we will try to do
