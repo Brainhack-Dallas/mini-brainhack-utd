@@ -1,0 +1,14 @@
+<section id="contactus" style="height: 0px"></section>
+<footer class="py-5 bg-primary">
+<div class="container text-white text-center">
+
+<br><b>Contact Us</b>
+<br>Micaela Chan <mchan@utdallas.edu>
+<br>Ju-Chi Yu <Ju-Chi.Yu@utdallas.edu>
+<br>Ekarin Pongpipat <Ekarin.Pongpipat@utdallas.edu>
+<br>Mattew Kmiecik <Matthew.Kmiecik@utdallas.edu>
+<br>David Hoagey <David.Hoagey@utdallas.edu>
+
+</div>
+<!-- /.container -->
+</footer>

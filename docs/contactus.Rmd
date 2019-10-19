@@ -1,0 +1,14 @@
+<section id="contactus">
+<div class="container text-white text-center">
+<h5 class="text-center text-white">For more information:</h5>
+@utdallas.edu
+
+<p><h5 class="text-center text-white">Organizers:</h5>
+Micaela Chan <mchan@utdallas.edu>
+<br>Ju-Chi Yu <Ju-Chi.Yu@utdallas.edu>
+<br>Ekarin Pongpipat <Ekarin.Pongpipat@utdallas.edu>
+<br>Mattew Kmiecik <Matthew.Kmiecik@utdallas.edu>
+<br>David Hoagey <David.Hoagey@utdallas.edu>
+
+</div>
+</section>

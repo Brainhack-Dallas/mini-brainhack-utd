@@ -1,0 +1,56 @@
+---
+title: "Mini-Brainhack UTD 2019"
+output: 
+  html_document:
+    theme: null
+    css: ['css/darkly-bootstrap.min.css', 'css/scrolling-nav.css']
+---
+
+<style type="text/css">
+h1.title {
+  font-size: 0px;
+}
+</style>
+
+```{r navbar, child = "navbar.Rmd"}
+```
+
+<header class="bg-dark text-white">
+<div class="container text-center">
+
+<br><h2>Mini-Brainhack UTD 2019</h2>
+
+<br>[insert cool brain picture here]
+</div>
+</header>
+
+```{r about, child = "about.rmd"}
+```
+
+```{r schedule, child = "schedule.rmd"}
+```
+
+```{r projects, child = "projects.rmd"}
+```
+
+```{r register, child = "register.rmd"}
+```
+
+```{r footer, child = "location.Rmd"}
+```
+
+```{r footer, child = "footer.Rmd"}
+```
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom JavaScript for this theme -->
+<script src="js/scrolling-nav.js"></script>
+
+<!-- Custom JavaScript for this theme -->
+<script src="js/util.js"></script>

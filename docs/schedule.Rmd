@@ -1,0 +1,141 @@
+<section id="schedule" class="bg-dark">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 mx-auto text-center">
+<h2>Schedule</h2>
+
+<br>Tentative Schedule
+
+<br><table class="table table-hover text-center text-white">
+<thead>
+<tr>
+<th scope="col" rowspan="2">Time</th>
+<th scope="col" colspan="2">Day 1 - Saturday, November 16</th>
+<th scope="col" colspan="2">Day 2 - Sunday, November 17</th>
+</tr>
+<tr>
+<th scope="col">Learn</th>
+<th scope="col">Hack</th>
+<th scope="col">Learn</th>
+<th scope="col">Hack</th>
+</tr>
+</thead>
+<tbody>
+<tr class="table-default">
+<th scope="row">9:00 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">9:30 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">10:00 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">10:30 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">11:00 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">11:30 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">12:00 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">12:30 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">1:00 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">1:30 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">2:00 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">2:30 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">3:00 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">3:30 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">4:00 am</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="table-default">
+<th scope="row">4:30 pm</th>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+</tbody>
+</table> 
+</div>
+</div>
+</div>
+</section>
