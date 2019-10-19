@@ -20,6 +20,8 @@ h1.title {
 
 <br><h2>Mini-Brainhack UTD 2019</h2>
 
+<br>Saturday, November 16 - Sunday, November 17
+
 <br>[insert cool brain picture here]
 </div>
 </header>

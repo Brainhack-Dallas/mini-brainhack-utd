@@ -65,17 +65,17 @@
 </tr>
 <tr class="table-default">
 <th scope="row">12:00 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
 </tr>
 <tr class="table-default">
 <th scope="row">12:30 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
+<td>Lunch</td>
 </tr>
 <tr class="table-default">
 <th scope="row">1:00 pm</th>
