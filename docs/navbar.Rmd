@@ -10,15 +10,17 @@
 
 ```{r, include = F, message = F}
 library(dplyr)
-df_navbar <- tibble::tribble(~title, ~link,
-                     "About", '#about',
-                     "Schedule", "#schedule",
-                     "Projects", '#projects',
-                     "Register", '#register',
-                     "Location", "#location",
-                     #"Sponsors", '#sponsors',
-                     "Contact Us", '#contactus') %>%
-  mutate(html_code = glue::glue("<li class='nav-item'><a class='nav-link js-scroll-trigger' href='{link}'>{title}</a></li>"))
+library(fontawesome)
+df_navbar <- tibble::tribble(~title, ~link, ~new_window,
+                     "About", '#about', F,
+                     "Schedule", "#schedule", F,
+                     "Projects", '#projects', F,
+                     "Register", '#register', F,
+                     "Location", "#location", F,
+                     #"Sponsors", '#sponsors', F,
+                     "Contact Us", '#contactus', F,
+                     fa("github", height = "20px", fill = "#999"), 'https://github.com/mychan24/mini-brainhack-utd', T) %>%
+  mutate(html_code = ifelse(new_window == F, glue::glue("<li class='nav-item'><a class='nav-link js-scroll-trigger' href='{link}'>{title}</a></li>"), glue::glue("<li class='nav-item'><a class='nav-link js-scroll-trigger' href='{link}' target='blank'>{title}</a></li>")))
 
 html_code <- paste(df_navbar$html_code, collapse = "")
 ```

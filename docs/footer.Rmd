@@ -3,11 +3,27 @@
 <div class="container text-white text-center">
 
 <br><b>Contact Us</b>
-<br>Micaela Chan <mchan@utdallas.edu>
-<br>Ju-Chi Yu <Ju-Chi.Yu@utdallas.edu>
-<br>Ekarin Pongpipat <Ekarin.Pongpipat@utdallas.edu>
-<br>Mattew Kmiecik <Matthew.Kmiecik@utdallas.edu>
-<br>David Hoagey <David.Hoagey@utdallas.edu>
+
+<div class="row">
+
+<div class="col-6 text-right">
+Ekarin Pongpipat
+<br>Ju-Chi Yu
+<br>Mattew Kmiecik
+<br>David Hoagey
+<br>Micaela Chan
+</div>
+
+<div class="col-6 text-left">
+<Ekarin.Pongpipat@utdallas.edu>
+<br><Ju-Chi.Yu@utdallas.edu>
+<br><Matthew.Kmiecik@utdallas.edu>
+<br><David.Hoagey@utdallas.edu>
+<br><mchan@utdallas.edu>
+</div>
+
+</div>
+
 
 </div>
 <!-- /.container -->
