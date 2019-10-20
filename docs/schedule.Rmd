@@ -7,73 +7,75 @@
 <br>Tentative
 
 <br><table class="table table-hover text-center text-white">
- <tr>
-    <th class="tg-0lax">Time</th>
-    <th class="tg-baqh" colspan="2">Day 1 - Saturday, November 16</th>
-    <th class="tg-baqh" colspan="2">Day 2 - Sunday, November 17</th>
+  <tr>
+    <th class="tg-0pky">Time</th>
+    <th class="tg-c3ow" colspan="2">Day 1</th>
+    <th class="tg-c3ow" colspan="2"> Day 2</th>
   </tr>
   <tr>
-    <td class="tg-0lax">9:00am</td>
-    <td class="tg-baqh" colspan="2">Opening &amp; Welcome</td>
-    <td class="tg-baqh" colspan="2">Mingle + Coffee</td>
+    <td class="tg-0pky">9:00am</td>
+    <td class="tg-c3ow" colspan="2">Opening &amp; Welcome</td>
+    <td class="tg-c3ow" colspan="2">Mingle + Coffee</td>
   </tr>
   <tr>
-    <td class="tg-0lax">9:30am</td>
-    <td class="tg-nrix" colspan="2">Project Pitches</td>
-    <td class="tg-nrix" rowspan="5">Data Visualization <br>Workshop</td>
-    <td class="tg-nrix" rowspan="5">Open Hacking</td>
+    <td class="tg-0pky">9:30am</td>
+    <td class="tg-9wq8" colspan="2" rowspan="2">Open Science Talk</td>
+    <td class="tg-9wq8" colspan="2" rowspan="2">Data Visualization <br>Workshop</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10:00am</td>
-    <td class="tg-nrix" rowspan="4">Git &amp; Github<br>Tutorial</td>
-    <td class="tg-nrix" rowspan="4">Teaming Up<br><br>+<br><br>Open Hacking</td>
+    <td class="tg-0pky">10:00am</td>
   </tr>
   <tr>
-    <td class="tg-0lax">10:30am</td>
+    <td class="tg-0pky">10:30am</td>
+    <td class="tg-c3ow" colspan="2">Project Pitch (5 min each)</td>
+    <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
   </tr>
   <tr>
-    <td class="tg-0lax">11:00am</td>
+    <td class="tg-0pky">11:00am</td>
+    <td class="tg-9wq8" rowspan="3">Git &amp; Github<br>Tutorial</td>
+    <td class="tg-9wq8" rowspan="3">Open Hacking<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax">11:30am</td>
+    <td class="tg-0pky">11:30am</td>
   </tr>
   <tr>
-    <td class="tg-0lax">12:00pm</td>
-    <td class="tg-nrix" colspan="2" rowspan="2">Lunch</td>
-    <td class="tg-nrix" colspan="2" rowspan="2">Lunch</td>
+    <td class="tg-0pky">12:00pm</td>
+    <td class="tg-9wq8" colspan="2" rowspan="2">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-0lax">12:30pm</td>
+    <td class="tg-0pky">12:30pm</td>
+    <td class="tg-9wq8" colspan="2" rowspan="2">Lunch</td>
   </tr>
   <tr>
-    <td class="tg-0lax">1:00pm</td>
-    <td class="tg-nrix" colspan="2" rowspan="4">Open Hacking</td>
-    <td class="tg-nrix" colspan="2" rowspan="5">Open Hacking</td>
+    <td class="tg-0pky">1:00pm</td>
+    <td class="tg-9wq8" colspan="2" rowspan="4">Open Hacking</td>
   </tr>
   <tr>
-    <td class="tg-0lax">1:30pm</td>
+    <td class="tg-0pky">1:30pm</td>
+    <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2:00pm</td>
+    <td class="tg-0pky">2:00pm</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2:30pm</td>
+    <td class="tg-0pky">2:30pm</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:00pm</td>
-    <td class="tg-baqh" colspan="2">Coffee Break</td>
+    <td class="tg-0pky">3:00pm</td>
+    <td class="tg-c3ow" colspan="2">Coffee Break</td>
+    <td class="tg-c3ow" colspan="2">Coffee Break</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3:30pm</td>
-    <td class="tg-nrix" colspan="2" rowspan="3">Open Hacking</td>
-    <td class="tg-nrix" colspan="2" rowspan="2">Wrap Up <br>(Project Recap)</td>
+    <td class="tg-0pky">3:30pm</td>
+    <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
+    <td class="tg-9wq8" colspan="2" rowspan="2">Project Presentation</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4:00pm</td>
+    <td class="tg-0pky">4:00pm</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4:30pm</td>
-    <td class="tg-baqh" colspan="2">Clean Up</td>
+    <td class="tg-0pky">4:30pm</td>
+    <td class="tg-c3ow" colspan="2">Clean Up &amp; <br><br>Be out by 5p</td>
   </tr>
 </table>
 </div>
