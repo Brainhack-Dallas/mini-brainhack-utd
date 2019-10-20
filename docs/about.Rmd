@@ -1,7 +1,5 @@
 <section id="about">
-<div class="container">
-<div class="row">
-<div class="col-lg-12 mx-auto text-center">
+<div class="container text-center">
 <h2>What is mini-brainhack?</h2>
 
 <br>The goal of mini-brainhack is to:
@@ -15,15 +13,13 @@ df_projects <- tibble::tribble(~title, ~description,
                                "#2: Learn", "Learn about current open science practices and data",
                                "#3: Get Involved", "Find exciting open science projects that you would like to contribute to",
                                "#4: Be Social", "Meet researchers from a variety of backgrounds") %>%
-  mutate(html_code = glue::glue('<div class="col-3 text-center"><div class="card border-black mb-3" style="max-width: 20rem;"><div class="card-header">{title}</div><div class="card-body"><p class="card-text">{description}</p></div></div></div>'))
+  mutate(html_code = glue::glue('<div class="col-lg-3 text-center"><div class="card border-black mb-3" style="max-width: 20rem;"><div class="card-header">{title}</div><div class="card-body"><p class="card-text">{description}</p></div></div></div>'))
 
 html_code <- paste(df_projects$html_code, collapse = "")
 ```
 
 `r html_code`
 
-</div>
-</div>
 </div>
 </div>
 </section>

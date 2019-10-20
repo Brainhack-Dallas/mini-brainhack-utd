@@ -10,7 +10,7 @@ df_projects <- tibble::tribble(~title, ~description,
                                "#1: Multivariate Bookdown", "Description",
                                "#2: GLM Bookdown", "Chapter on bootstrap and permutation testing and an APA gold standard statement",
                                "#3: EEG Machine Learning", "Description") %>%
-  mutate(html_code = glue::glue('<div class="col-4 text-center"><div class="card border-black mb-3" style="max-width: 20rem;"><div class="card-header">{title}</div><div class="card-body"><p class="card-text">{description}</p></div></div></div>'))
+  mutate(html_code = glue::glue('<div class="col-lg-4 text-center"><div class="card border-black mb-3" style="max-width: 20rem;"><div class="card-header">{title}</div><div class="card-body"><p class="card-text">{description}</p></div></div></div>'))
 
 html_code <- paste(df_projects$html_code, collapse = "")
 ```

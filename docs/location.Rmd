@@ -4,20 +4,22 @@
 <h2>Location</h2>
 
 <br><div class="row">
-<div class="col-4 text-right">
+<div class="col-lg-5 text-center">
 
-<h4>The University of Texas at Dallas</h4>
+<br>
+<br><h4>The University of Texas at Dallas</h4>
 800 W Campbell Rd., Richardson, TX 75080
 
 <br>
 <br><h4>GR 4.208</h4>
 <h4>GR 4.209</h4>
+<br>
 
 </div>
 
-<div class="col-1 text-right"></div>
+<!-- <div class="col-lg-1 text-right"></div> -->
 
-<div class="col-6 text-left">
+<div class="col-lg-6 text-left">
 
 <!-- <div style="max-width:500px; overflow:hidden;c olor:red; width:500px; height:300px;"> -->
 <!-- <div id="mymap-canvas" style="height:100%; width:100%; max-width:100%;"> -->
