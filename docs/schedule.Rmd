@@ -7,134 +7,75 @@
 <br>Tentative
 
 <br><table class="table table-hover text-center text-white">
-<thead>
-<tr>
-<th scope="col" rowspan="2">Time</th>
-<th scope="col" colspan="2">Day 1 - Saturday, November 16</th>
-<th scope="col" colspan="2">Day 2 - Sunday, November 17</th>
-</tr>
-<tr>
-<th scope="col">Learn</th>
-<th scope="col">Hack</th>
-<th scope="col">Learn</th>
-<th scope="col">Hack</th>
-</tr>
-</thead>
-<tbody>
-<tr class="table-default">
-<th scope="row">9:00 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">9:30 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">10:00 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">10:30 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">11:00 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">11:30 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">12:00 pm</th>
-<td rowspan="2" colspan="4" class="align-middle">Lunch</td>
-<!-- <td>Lunch</td> -->
-<!-- <td>Lunch</td> -->
-<!-- <td>Lunch</td> -->
-</tr>
-<tr class="table-default">
-<th scope="row">12:30 pm</th>
-<!-- <td>Lunch</td> -->
-<!-- <td>Lunch</td> -->
-<!-- <td>Lunch</td> -->
-<!-- <td>Lunch</td> -->
-</tr>
-<tr class="table-default">
-<th scope="row">1:00 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">1:30 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">2:00 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">2:30 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">3:00 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">3:30 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">4:00 am</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-<tr class="table-default">
-<th scope="row">4:30 pm</th>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-<td>Column content</td>
-</tr>
-</tbody>
-</table> 
+ <tr>
+    <th class="tg-0lax">Time</th>
+    <th class="tg-baqh" colspan="2">Day 1 - Saturday, November 16</th>
+    <th class="tg-baqh" colspan="2">Day 2 - Sunday, November 17</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:00am</td>
+    <td class="tg-baqh" colspan="2">Opening &amp; Welcome</td>
+    <td class="tg-baqh" colspan="2">Mingle + Coffee</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9:30am</td>
+    <td class="tg-nrix" colspan="2">Project Pitches</td>
+    <td class="tg-nrix" rowspan="5">Data Visualization <br>Workshop</td>
+    <td class="tg-nrix" rowspan="5">Open Hacking</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:00am</td>
+    <td class="tg-nrix" rowspan="4">Git &amp; Github<br>Tutorial</td>
+    <td class="tg-nrix" rowspan="4">Teaming Up<br><br>+<br><br>Open Hacking</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10:30am</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11:00am</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11:30am</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12:00pm</td>
+    <td class="tg-nrix" colspan="2" rowspan="2">Lunch</td>
+    <td class="tg-nrix" colspan="2" rowspan="2">Lunch</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12:30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1:00pm</td>
+    <td class="tg-nrix" colspan="2" rowspan="4">Open Hacking</td>
+    <td class="tg-nrix" colspan="2" rowspan="5">Open Hacking</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1:30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2:00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2:30pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:00pm</td>
+    <td class="tg-baqh" colspan="2">Coffee Break</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3:30pm</td>
+    <td class="tg-nrix" colspan="2" rowspan="3">Open Hacking</td>
+    <td class="tg-nrix" colspan="2" rowspan="2">Wrap Up <br>(Project Recap)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4:00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4:30pm</td>
+    <td class="tg-baqh" colspan="2">Clean Up</td>
+  </tr>
+</table>
 </div>
 </div>
 </div>
