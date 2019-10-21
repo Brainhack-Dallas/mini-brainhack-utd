@@ -15,14 +15,20 @@ h1.title {
 ```{r navbar, child = "navbar.Rmd"}
 ```
 
-<header class="bg-info text-white">
+<style>
+header {
+    background-image:url("./img/system-3699542_1920.jpg");
+}
+</style>
+
+<header class="bg-primary text-white">
 <div class="container text-center">
+
 
 <br><h2>Mini-Brainhack UTD 2019</h2>
 
-<br>Saturday, November 16 - Sunday, November 17
+<br><h5>Saturday, November 16 - Sunday, November 17</h5>
 
-<br>[insert cool brain picture here]
 </div>
 </header>
 
