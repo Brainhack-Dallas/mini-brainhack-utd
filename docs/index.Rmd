@@ -3,7 +3,7 @@ title: "Mini-Brainhack UTD 2019"
 output: 
   html_document:
     theme: null
-    css: ['css/darkly-bootstrap.min.css', 'css/scrolling-nav.css']
+    css: ['css/flatly-bootstrap.min.css', 'css/scrolling-nav.css']
 ---
 
 <style type="text/css">
@@ -15,7 +15,7 @@ h1.title {
 ```{r navbar, child = "navbar.Rmd"}
 ```
 
-<header class="bg-dark text-white">
+<header class="bg-info text-white">
 <div class="container text-center">
 
 <br><h2>Mini-Brainhack UTD 2019</h2>
