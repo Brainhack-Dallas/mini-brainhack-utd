@@ -8,21 +8,25 @@
 <br>
 
 <style> 
-.table th{
+.table tbody td, .table thead th {
     border: grey solid 1px;
-}
-.table td{
-    border: grey solid 1px;
-}
+    vertical-align: middle;
 }
 </style>
 
-<table class="table table-hover text-center">
+<table class="table table-hover text-center align-middle">
+<thead>
   <tr>
-    <th class="tg-0pky">Time</th>
-    <th class="tg-c3ow" colspan="2">Day 1</th>
-    <th class="tg-c3ow" colspan="2"> Day 2</th>
+    <th class="tg-0pky" rowspan="2">Time</th>
+    <th class="tg-c3ow" colspan="2">Saturday, November 16</th>
+    <th class="tg-c3ow" colspan="2">Sunday, November 17</th>
   </tr>
+  <tr>
+    <th colspan="2">Day 1</th>
+    <th colspan="2">Day 2</th>
+  </tr>
+</thead>
+<tbody class="align-middle">
   <tr>
     <td class="tg-0pky">9:00am</td>
     <td class="tg-c3ow" colspan="2">Opening &amp; Welcome</td>
@@ -39,11 +43,11 @@
   <tr>
     <td class="tg-0pky">10:30am</td>
     <td class="tg-c3ow" colspan="2">Project Pitch (5 min each)</td>
-    <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
+    <td class="tg-9wq8" colspan="2" rowspan="4">Open Hacking</td>
   </tr>
   <tr>
     <td class="tg-0pky">11:00am</td>
-    <td class="tg-9wq8" rowspan="3">Git &amp; Github<br>Tutorial</td>
+    <td class="tg-9wq8 align-middle" rowspan="3">Git &amp; Github<br>Tutorial</td>
     <td class="tg-9wq8" rowspan="3">Open Hacking<br></td>
   </tr>
   <tr>
@@ -51,18 +55,17 @@
   </tr>
   <tr>
     <td class="tg-0pky">12:00pm</td>
-    <td class="tg-9wq8" colspan="2" rowspan="2">Lunch</td>
   </tr>
   <tr>
     <td class="tg-0pky">12:30pm</td>
-    <td class="tg-9wq8" colspan="2" rowspan="2">Lunch</td>
+    <td class="tg-9wq8" colspan="4" rowspan="2">Lunch</td>
   </tr>
   <tr>
     <td class="tg-0pky">1:00pm</td>
-    <td class="tg-9wq8" colspan="2" rowspan="4">Open Hacking</td>
   </tr>
   <tr>
     <td class="tg-0pky">1:30pm</td>
+    <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
     <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
   </tr>
   <tr>
@@ -73,21 +76,22 @@
   </tr>
   <tr>
     <td class="tg-0pky">3:00pm</td>
-    <td class="tg-c3ow" colspan="2">Coffee Break</td>
-    <td class="tg-c3ow" colspan="2">Coffee Break</td>
+    <td class="tg-c3ow" colspan="4">Coffee Break</td>
+    <!-- <td class="tg-c3ow" colspan="2">Coffee Break</td> -->
   </tr>
   <tr>
     <td class="tg-0pky">3:30pm</td>
     <td class="tg-9wq8" colspan="2" rowspan="3">Open Hacking</td>
-    <td class="tg-9wq8" colspan="2" rowspan="2">Project Presentation</td>
+    <td class="tg-9wq8" colspan="2" rowspan="2">Project Presentation <br>(Project Update)</td>
   </tr>
   <tr>
     <td class="tg-0pky">4:00pm</td>
   </tr>
   <tr>
     <td class="tg-0pky">4:30pm</td>
-    <td class="tg-c3ow" colspan="2">Clean Up &amp; <br><br>Be out by 5p</td>
+    <td class="tg-c3ow" colspan="2">Wrap Up <br>(Clean up and be out by 5p)</td>
   </tr>
+</tbody>
 </table>
 </div>
 </div>
