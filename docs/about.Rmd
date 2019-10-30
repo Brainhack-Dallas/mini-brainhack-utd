@@ -1,8 +1,11 @@
 <section id="about">
 <div class="container text-center">
-<h2>What is a brainhack?</h2>
 
-<br>The goal of a brainhack is to:
+<h2>What is a Brainhack?</h2>
+
+<br>
+
+<h4>The goal of a Brainhack is to:</h4>
 
 <br><div class="row">
 
@@ -19,6 +22,18 @@ html_code <- paste(df_projects$html_code, collapse = "")
 ```
 
 `r html_code`
+</div>
+
+<div class="container text-center">
+<br>
+
+<h2>What happens in a Brainhack event?</h2>
+
+<br>
+Along with several open hacking sessions (i.e., working togehter on work together on open projects related to research in neuroscience), there will also be some tutorial sessions applicable to making open-science/research easier across diverse research interests (e.g., data-visualization, version-control of codes). 
+
+<br> 
+Mini-Brainhack UTD is part of [Brainhack Global 2019](http://www.brainhack.org/global2019), acting as a local event site that hosts a local Brainhack around the same time.
 
 </div>
 </div>

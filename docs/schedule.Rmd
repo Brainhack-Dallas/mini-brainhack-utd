@@ -25,7 +25,7 @@
 	<tbody class="align-middle">
 		<tr style="height: 37px;">
 			<td class="tg-0pky" style="height: 37px;">9:00am</td>
-			<td class="tg-c3ow" style="height: 37px;" colspan="2">Check-in, Mingle + Coffee</td>
+			<td class="tg-c3ow" style="height: 37px;" colspan="2">Check-in | Mingle + Coffee</td>
 			<td class="tg-c3ow" style="height: 37px;" colspan="2">Mingle + Coffee</td>
 		</tr>
 		<tr style="height: 37px;">
@@ -36,7 +36,7 @@
 			</td>
 			<td class="tg-9wq8" style="height: 74px;" colspan="2" rowspan="2">
 				<p>Open Science Talk:&nbsp;</p>
-				<p>Kendra Seaman</p>
+				<p><a href="https://agingwelllab.github.io/">Kendra Seaman</a></p>
 			</td>
 		</tr>
 		<tr style="height: 37px;">
@@ -51,7 +51,7 @@
 			<td class="tg-0pky" style="height: 37px;">11:00am</td>
 			<td class="tg-9wq8 align-middle" style="height: 111px;" rowspan="3">
 				<p>Git &amp; Github<br />Tutorial:</p>
-				<p>Micaela Chan</p>
+				<p><a href="https://micaelachan.com/">Micaela Chan</a></p>
 			</td>
 			<td class="tg-9wq8" style="height: 111px;" rowspan="3">
 				<p>Teaming +</p>
@@ -73,7 +73,10 @@
 		</tr>
 		<tr style="height: 37px;">
 			<td class="tg-0pky" style="height: 37px;">1:30pm</td>
-			<td class="tg-9wq8" style="height: 74px;" colspan="2" rowspan="2">Data Visualization:<br>Matt&nbsp;Kmiecik</td>
+			<td class="tg-9wq8" style="height: 74px;" colspan="2" rowspan="2">
+			<p>Data Visualization:</p>
+			<p><a href="https://mattkmiecik.com/">Matt&nbsp;Kmiecik</a></p>
+			</td>
 			<td class="tg-9wq8" style="height: 111px;" colspan="2" rowspan="3">Open Hacking</td>
 		</tr>
 		<tr style="height: 37px;">
