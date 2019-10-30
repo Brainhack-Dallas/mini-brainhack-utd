@@ -1,8 +1,8 @@
 <section id="about">
 <div class="container text-center">
-<h2>What is mini-brainhack?</h2>
+<h2>What is a brainhack?</h2>
 
-<br>The goal of mini-brainhack is to:
+<br>The goal of a brainhack is to:
 
 <br><div class="row">
 

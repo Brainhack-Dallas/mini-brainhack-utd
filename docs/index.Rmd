@@ -1,5 +1,5 @@
 ---
-title: "Mini-Brainhack UTD 2019"
+title: "Brainhack Dallas 2019"
 output: 
   html_document:
     theme: null
@@ -24,8 +24,8 @@ header {
 <header class="bg-primary text-white">
 <div class="container text-center">
 
-
-<br><h2>Mini-Brainhack UTD 2019</h2>
+<br><h2>Brainhack Dallas 2019</h2>
+<br><h4>(Mini-Brainhack UTD)</h4>
 
 <br><h5>Saturday, November 16 - Sunday, November 17</h5>
 
