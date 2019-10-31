@@ -66,7 +66,7 @@
 		</tr>
 		<tr style="height: 37px;">
 			<td class="tg-0pky" style="height: 37px;">12:30pm</td>
-			<td class="tg-9wq8" style="height: 74px;" colspan="4" rowspan="2">Lunch</td>
+			<td class="tg-9wq8" style="height: 74px;" colspan="4" rowspan="2">Lunch <br>(Will be be provided)</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td class="tg-0pky" style="height: 37px;">1:00pm</td>
