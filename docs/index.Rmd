@@ -47,6 +47,9 @@ header {
 ```{r footer, child = "location.Rmd"}
 ```
 
+```{r footer, child = "sponsor.Rmd"}
+```
+
 ```{r footer, child = "footer.Rmd"}
 ```
 

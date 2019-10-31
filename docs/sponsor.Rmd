@@ -1,8 +1,9 @@
-<section id="sponsors">
+<section id="sponsors" class="bg-light">
 <div class="container text-center">
 <div class="row">
-<div class="col-lg-8 mx-auto">
+<div class="col-lg-12 mx-auto">
 <h2>Generously Sponsored By:</h2>
+<a href="https://bbs.utdallas.edu/" target="_blank"><img src="img/UTDmono_BBS_stacked_CMYK.png"></a>
 </div>
 </div>
 </div>

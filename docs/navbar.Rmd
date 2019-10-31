@@ -17,7 +17,7 @@ df_navbar <- tibble::tribble(~title, ~link, ~new_window,
                      "Projects", '#projects', F,
                      "Register", '#register', F,
                      "Location", "#location", F,
-                     #"Sponsors", '#sponsors', F,
+                     "Sponsors", '#sponsors', F,
                      "Contact Us", '#contactus', F,
                      fa("github", height = "20px", fill = "#999"), 'https://github.com/Brainhack-Dallas/mini-brainhack-utd', T,
                      "<img src='http://mattermost.org/wp-content/uploads/2016/04/iconWhite.png' width='20px' style='filter: opacity(50%);'>", "https://mattermost.brainhack.org/brainhack/channels/bhg19_dallas", T) %>%
