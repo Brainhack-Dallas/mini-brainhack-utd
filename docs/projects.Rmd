@@ -6,11 +6,8 @@
 
 ```{r, message = F, include = F}
 library(dplyr)
-df_projects <- tibble::tribble(~title, ~description,
-                               "#1: Multivariate Bookdown", "Chapters on PCA and CA, with their inference analysis",
-                               "#2: GLM Bookdown", "Chapter on bootstrap and permutation testing and an APA gold standard statement",
-                               "#3: EEG Machine Learning", "Description will be uploaded soon.") %>%
-  mutate(html_code = glue::glue('<div class="col-lg-4 text-center"><div class="card border-black mb-3" style="max-width: 20rem;"><div class="card-header">{title}</div><div class="card-body"><p class="card-text">{description}</p></div></div></div>'))
+df_projects <- readr::read_csv("projects.csv") %>%
+  mutate(html_code = glue::glue('<div class="col-lg-4 text-center"><div class="card border-black mb-3" style="max-width: 20rem;"><div class="card-header">#{n_project}: {title}</div><div class="card-body text-left"><p class="card-text"><b>{leader}</b><br><a href="mailto:{email}" target="_blank">{email}</a><br><br><b>Goal</b>: {goal}<br><br><b>Description</b>: {description}<br><br><b>Tools</b>: {tools}<br><br><b>GitHub</b>:<br> <a href="{github}" target="_blank">{github}</a></p></div></div></div>'))
 
 html_code <- paste(df_projects$html_code, collapse = "")
 ```
