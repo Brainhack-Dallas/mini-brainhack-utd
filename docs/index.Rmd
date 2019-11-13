@@ -28,7 +28,6 @@ header {
 <br><h4>(Mini-Brainhack UTD)</h4>
 
 <br><h5>Saturday, November 16 - Sunday, November 17</h5>
-<br><a class="btn btn-secondary btn-lg" href="https://forms.gle/EC7TJ5PqdYHqjhze8" role="button" target="_blank">Register Now</a>
 </div>
 </header>
 

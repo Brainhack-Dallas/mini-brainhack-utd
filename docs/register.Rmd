@@ -2,13 +2,11 @@
 <div class="container text-center">
 <div class="row">
 <div class="col-lg-12 mx-auto">
-<h2>Register Now</h2>
+<h2>Registration is Closed</h2>
 
 <br>Last day to register is <b>Saturday, November 9th</b>
 
 Open to <b>all</b> UTD BBS Doctoral Students and Post-Docs
-
-<br><a class="btn btn-primary btn-lg" href="https://forms.gle/EC7TJ5PqdYHqjhze8" role="button" target="_blank">Register Now</a>
 
 </div>
 </div>
