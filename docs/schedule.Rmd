@@ -35,7 +35,7 @@
 				<p>Collaborating on GitHub</p>
 			</td>
 			<td class="tg-9wq8" style="height: 74px;" colspan="2" rowspan="2">
-				<p>Open Science Talk:&nbsp;</p>
+				<p>Open Science Framework (OSF) + <br>Brain Imaging Data Structure (BIDS):&nbsp;</p>
 				<p><a href="https://agingwelllab.github.io/">Kendra Seaman</a></p>
 			</td>
 		</tr>
@@ -84,12 +84,12 @@
 		</tr>
 		<tr style="height: 37px;">
 			<td class="tg-0pky" style="height: 37px;">2:30pm</td>
-			<td class="tg-9wq8" style="height: 37px;" colspan="2" rowspan="1">Coffee Break</td>
+			<td class="tg-9wq8" style="height: 37px;" colspan="2" rowspan="1">Break</td>
 		</tr>
 		<tr style="height: 37px;">
 			<td class="tg-0pky" style="height: 37px;">3:00pm</td>
 			<td class="tg-c3ow" style="height: 37px;" colspan="2">Project&nbsp;Recap + Re-teaming</td>
-			<td class="tg-c3ow" style="height: 37px;" colspan="2">Coffee Break</td>
+			<td class="tg-c3ow" style="height: 37px;" colspan="2">Break</td>
 		</tr>
 		<tr style="height: 30px;">
 			<td class="tg-0pky" style="height: 30px;">3:30pm</td>

@@ -14,7 +14,7 @@
 <br><h4>GR 4.208</h4>
 <h4>GR 4.209</h4>
 <br>
-
+<h5>Note: Free parking is available in Green lots and spaces.</h5>
 </div>
 
 <!-- <div class="col-lg-1 text-right"></div> -->
