@@ -3,7 +3,7 @@
     "name": "startbootstrap-scrolling-nav",
     "version": "4.2.1",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "browser-sync start --server --files \"**/*.css, **/*.html, **/*.js\" --port 3000"
     },
     "description": "A smooth scrolling navigation HTML template built with Bootstrap",
     "keywords": [
@@ -30,13 +30,10 @@
     },
     "dependencies": {
         "bootstrap": "4.3.1",
-        "jquery": "3.5.0",
+        "jquery": "3.7.1",
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
-        "browser-sync": "2.26.7",
-        "del": "^4.1.1",
-        "gulp": "4.0.2",
-        "merge-stream": "2.0.0"
+        "browser-sync": "3.0.4"
     }
 }
